@@ -83,6 +83,8 @@ endmodule
 
 **RTL LOGIC FOR FLIPFLOPS**
 
+![image](https://github.com/jeevithak7708/JKFLIPFLOP-USING-IF-ELSE/blob/main/jk%20flip%20img.pdf)
+
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
 **RESULTS**
