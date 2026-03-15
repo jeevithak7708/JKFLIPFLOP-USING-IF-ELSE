@@ -87,6 +87,8 @@ endmodule
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
+![image](https://github.com/jeevithak7708/JKFLIPFLOP-USING-IF-ELSE/blob/main/de%20jk%20flip%20output.png)
+
 **RESULTS**
 
 Thus the given program is Verified
